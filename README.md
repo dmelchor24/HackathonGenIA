@@ -35,4 +35,4 @@ Puedes utilizar y adaptar los archivos para fines educativos o de investigación
 
 Repositorio creado como parte del evento **Hackathon**.  
 Desarrollado por @dmelchor24 en GitHub
-📫 Contacto: (https://www.linkedin.com/in/david-melchor22/)
+📫 Contacto: https://www.linkedin.com/in/david-melchor22/
