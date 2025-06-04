@@ -33,6 +33,5 @@ Puedes utilizar y adaptar los archivos para fines educativos o de investigación
 
 ## 🧑‍💻 Autor
 
-Repositorio creado como parte del evento **Hackathon**.  
-Desarrollado por @dmelchor24 en GitHub
+Repositorio creado como parte del evento **Hackathon**.
 📫 Contacto: https://www.linkedin.com/in/david-melchor22/
