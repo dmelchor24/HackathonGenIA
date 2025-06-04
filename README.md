@@ -4,8 +4,6 @@ Este repositorio forma parte del proyecto desarrollado durante el **Hackathon**,
 
 Aquí encontrarás archivos de prueba que puedes utilizar con el prototipo de PartyRock para probar su funcionamiento.
 
----
-
 ## 📁 Archivos incluidos
 
 Los siguientes archivos contienen fragmentos de código con vulnerabilidades intencionales, diseñados para evaluar el análisis de seguridad del asistente:
@@ -22,8 +20,6 @@ Nombre del archivo: Autenticación en JavaScript.txt
 
 Nombre del archivo: Conexión en Java.txt
 
----
-
 ## 🧪 ¿Cómo usar estos archivos?
 
 1. Accede al asistente en PartyRock.
@@ -31,16 +27,12 @@ Nombre del archivo: Conexión en Java.txt
 3. Selecciona el lenguaje correspondiente.
 4. Revisa el análisis de vulnerabilidades, sugerencias de corrección y recursos educativos generados por el asistente.
 
----
-
 ## 📄 Licencia
 
 Puedes utilizar y adaptar los archivos para fines educativos o de investigación.
 
----
-
 ## 🧑‍💻 Autor
 
 Repositorio creado como parte del evento **Hackathon**.  
-Desarrollado por [@dmelchor24]  
-📫 Contacto: [(https://www.linkedin.com/in/david-melchor22/)]
+Desarrollado por @dmelchor24 en GitHub
+📫 Contacto: (https://www.linkedin.com/in/david-melchor22/)
