@@ -23,7 +23,7 @@ Nombre del archivo: Conexión en Java.txt
 ## 🧪 ¿Cómo usar estos archivos?
 
 1. Accede al asistente en PartyRock.
-2. Carga uno de los archivos `.txt` desde este repositorio.
+2. Carga uno de los archivos `.txt` de este repositorio.
 3. Selecciona el lenguaje correspondiente.
 4. Revisa el análisis de vulnerabilidades, sugerencias de corrección y recursos educativos generados por el asistente.
 
