@@ -1,0 +1,12 @@
+import sqlite3
+
+def login(user, password):
+    conn = sqlite3.connect('users.db')
+    cursor = conn.cursor()
+    query = "SELECT * FROM users WHERE username = '{}' AND password = '{}'".format(user, password)
+    cursor.execute(query)
+    result = cursor.fetchall()
+    if result:
+        print("Acceso concedido")
+    else:
+        print("Acceso denegado")
